@@ -1,5 +1,5 @@
 # TouhouProject-Kuis
-The Mobile Application About Touhou Project Quiz .. Created By Android Studio
+The Mobile Application About Touhou Project Quiz .. Created With Android Studio
 </br>
 version v1.5
 
