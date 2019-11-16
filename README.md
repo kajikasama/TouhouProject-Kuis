@@ -10,3 +10,7 @@ version v1.5
   <td><img width="300px" src="https://github.com/kajikasama/TouhouProject-Kuis/blob/master/screenshoot/3.jpg"></td>
 </tr>
 </table>
+
+<br>
+
+Special Thanks For <b>Yoga Wiranatha</b>
